@@ -2,7 +2,7 @@
 
 Welcome to the **Tarkshastra Book Notes Repository**! This repository contains comprehensive notes from various books our debate team reads, helping us excel in our debates and MUNs.
 
-![Tarkshastra Logo](https://envs.sh/8WY.png)
+![Tarkshastra Logo]([https://envs.sh/8WY.png](https://drive.google.com/file/d/1hLcr_Oj7QjxlVcFNUVdlk5cz2cabADff/view?usp=sharing))
 
 ## 📖 Table of Contents
 
