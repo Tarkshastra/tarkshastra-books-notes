@@ -11,7 +11,8 @@ This in a simpler language would mean:<br><br><br>
 The mere fact that a law specified the requirements of one fundamental right,<br>
 does not exempt it from the operation of other fundamental rights.<br>
 </p>
+
 This in turn means that is a law complied with its requirements, it would also have to satisfy the requirements of other fundamental rights.<br>
 The majority of the bench were of the thinking that any aw established under article 21 would have to be 'fair, just and reasonable' unlike the impounding order issued by the GOI.<br>
 The court affirmed the decision in <i>Satwant Singh</i> and held that the right to travel abroad fell within the sweep of the right of personal liberty.<br>
-[Small Case, Large Jusgement](./Judgement.md)
+[Small Case, Large Judgement](Judgement.md)
