@@ -7,6 +7,7 @@ All amendments seeking to insert legislation into the 9<sup>th</sup> Schedule wo
 <li>Did they conform with the basic structure of the Constitution?</li>
 <li>Did they conform with the fundamental rights as forming a part of the basic structure under Part III of the Constitution? </li>
 </ol>
+
 The court unanimously concluded that government could not use 9<sup>th</sup> Schedule as the 'black hole' of the Constitution.<br>
 <i>Coelho</i> has preserved the supremacy of the judiciary in constitutional adjudication.<br>
 [Has the Basic Structure Doctrine Outlived Its Purpose?](./Outliving%20The%20Purpose.md)

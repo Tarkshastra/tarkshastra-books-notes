@@ -9,6 +9,7 @@ The Majority of the views on each issue were as follows:
 <li>The <i>Golak Nath</i> judgement, which had assrted that fundamental rights could not be taken away, was overruled.<br></li>
 <li>There were no implied limitations to the Parliament's power to amend the Constitution according to article 368.<br><br></li>
 </ol>
+
 However, the most important judgement was made by a thin margin of 7:6 where the court said although the Parliament had the power to amend the Constitution, it could not use this power to alter or destroy the basic framework of the Constitution.<br>
 All Constitutional Amendments made after <i>Kesvananda</i>, would have to pass the 'basic-structure filter' created by the Supreme Court.<br>
 The court empowered itself to judge the constitutionality of amendments.<br>

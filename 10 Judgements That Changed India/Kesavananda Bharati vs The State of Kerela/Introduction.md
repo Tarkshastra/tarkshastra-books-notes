@@ -8,6 +8,7 @@ It was unique for a number of reasons.<br>
 <li>The unprecedented number of separate opinions delivered by the Court.<br>
 Longest case in the history of the country.</li><br>
 </ol>
+
 Judgement spans 800 pages and about 420,000 words long.<br>
 Termed as "Longest Appellate Decision" of the last century.<br>
 Supreme Court ascribed to itself the function of preserving the integrity of the Indian Constitution.<br>

@@ -8,6 +8,7 @@ Nani Palkhivala, the petitioner's counsel, seized the opportunity and challenged
 <li> According to 25<sup>th</sup> Amendment, gave Articles 39(b) and 39(c). This gave precedence of fundamental roght to equality, 7 fundamental freedoms and property. It took away power of courts on laws passed related to them.</li><br>
 <li> 29<sup>th</sup> Amendment added 2 land reforms into 9<sup>th</sup> Schedule.</li><br>
 </ol>
+
 The Supreme Court had to recomsider their judgements in <i>Shankari Prasad</i>, <i>Sajjan Singh</i> and <i>Golak Nath</i>.<br>
 The most important question was that how much amending power was to be given to the Parliament under Article 368.<br>
 The petitioners in <i>Kesvananda</i> contended that the challenged amendments nullify the most cardinal principles of out constitution.<br>
